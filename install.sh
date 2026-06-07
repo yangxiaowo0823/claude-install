@@ -2,7 +2,7 @@
 # ============================================================
 # Claude Code 官方一键安装脚本 (macOS / Linux)
 # 全透明 · 只装官方包 · 不动你的全局 npm 配置
-# 用法: curl -fsSL https://raw.githubusercontent.com/Frio99/claude-install/main/install.sh | bash
+# 用法: curl -fsSL https://raw.githubusercontent.com/yangxiaowo0823/claude-install/main/install.sh | bash
 # ============================================================
 set -e
 

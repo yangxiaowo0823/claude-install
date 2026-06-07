@@ -1,7 +1,7 @@
 # ============================================================
 # Claude Code 官方一键安装脚本 (Windows / PowerShell)
 # 全透明 · 只装官方包 · 不动你的全局 npm 配置
-# 用法: irm https://raw.githubusercontent.com/Frio99/claude-install/main/install.ps1 | iex
+# 用法: irm https://raw.githubusercontent.com/yangxiaowo0823/claude-install/main/install.ps1 | iex
 # ============================================================
 
 Write-Host ""

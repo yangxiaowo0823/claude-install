@@ -16,7 +16,7 @@
 2. 把下面这行**整段复制**，粘进终端，按回车：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Frio99/claude-install/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/yangxiaowo0823/claude-install/main/install.sh | bash
 ```
 
 3. 等它自己跑完（第一次可能要几分钟，在下载东西，正常）。
@@ -27,7 +27,7 @@ curl -fsSL https://raw.githubusercontent.com/Frio99/claude-install/main/install.
 2. 把下面这行**整段复制**，粘进去，按回车：
 
 ```powershell
-irm https://raw.githubusercontent.com/Frio99/claude-install/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/yangxiaowo0823/claude-install/main/install.ps1 | iex
 ```
 
 3. 如果它提示「装好了 Node，请重开窗口再跑一次」，就**关掉 PowerShell、重新打开**，再粘一次同样的命令即可。
